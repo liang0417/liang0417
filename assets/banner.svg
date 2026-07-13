@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-labelledby="title desc">
+  <title id="title">LIANG.0417 — AI independent builder</title>
+  <desc id="desc">A static graphite profile banner with a mint signal line and a compact builder status panel.</desc>
+  <defs>
+    <linearGradient id="surface" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#090c10"/>
+      <stop offset="0.64" stop-color="#0b1014"/>
+      <stop offset="1" stop-color="#111a1c"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#6f8580" stroke-opacity="0.08"/>
+    </pattern>
+    <filter id="glow" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="7" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect x="1" y="1" width="1278" height="358" rx="24" fill="url(#surface)" stroke="#26343a" stroke-width="2"/>
+  <rect x="1" y="1" width="1278" height="358" rx="24" fill="url(#grid)"/>
+  <path d="M82 68v224" stroke="#5cf6c4" stroke-width="4"/>
+  <circle cx="82" cy="68" r="8" fill="#5cf6c4" filter="url(#glow)"/>
+
+  <text x="128" y="124" fill="#8fa29d" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="18" letter-spacing="4">INDEPENDENT BUILDER / 0417</text>
+  <text x="124" y="206" fill="#f0f8f6" font-family="Arial, Helvetica, sans-serif" font-size="62" font-weight="700" letter-spacing="3">LIANG.0417</text>
+  <text x="128" y="254" fill="#a9b9b5" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="21" letter-spacing="2">AI AGENTS · PRODUCTS · AUTOMATION</text>
+
+  <rect x="873" y="72" width="324" height="216" rx="16" fill="#080b0e" stroke="#2b3b3f" stroke-width="2"/>
+  <circle cx="907" cy="104" r="5" fill="#5cf6c4" filter="url(#glow)"/>
+  <text x="927" y="111" fill="#5cf6c4" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="17" letter-spacing="2">SYSTEM ONLINE</text>
+  <path d="M903 136h264" stroke="#233136"/>
+  <text x="903" y="174" fill="#6f8580" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="15">MODE</text>
+  <text x="1166" y="174" fill="#dce9e5" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="15">ONE-PERSON TEAM</text>
+  <text x="903" y="210" fill="#6f8580" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="15">STATUS</text>
+  <text x="1166" y="210" fill="#dce9e5" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="15">BUILDING IN PUBLIC</text>
+  <text x="903" y="246" fill="#6f8580" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="15">LONG GAME</text>
+  <text x="1166" y="246" fill="#dce9e5" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="15">ONE-PERSON COMPANY</text>
+</svg>

@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024" role="img" aria-labelledby="title desc">
+  <title id="title">L/41 avatar</title>
+  <desc id="desc">A geometric L slash 41 mark on a graphite circular field.</desc>
+  <defs>
+    <radialGradient id="field" cx="38%" cy="30%" r="78%">
+      <stop offset="0" stop-color="#151d20"/>
+      <stop offset="0.62" stop-color="#090c10"/>
+      <stop offset="1" stop-color="#05070a"/>
+    </radialGradient>
+    <filter id="signal" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="13" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <circle cx="512" cy="512" r="506" fill="url(#field)"/>
+  <circle cx="512" cy="512" r="454" fill="none" stroke="#253238" stroke-width="8"/>
+  <path d="M270 282v455h185" fill="none" stroke="#edf7f4" stroke-width="72" stroke-linecap="square" stroke-linejoin="miter"/>
+  <path d="M474 748 622 274" fill="none" stroke="#5cf6c4" stroke-width="58" stroke-linecap="square" filter="url(#signal)"/>
+  <path d="m735 286-171 281h211M735 286v451" fill="none" stroke="#edf7f4" stroke-width="64" stroke-linecap="square" stroke-linejoin="miter"/>
+  <path d="m815 393 70-86v430" fill="none" stroke="#8da09b" stroke-width="54" stroke-linecap="square" stroke-linejoin="miter"/>
+  <circle cx="201" cy="201" r="13" fill="#5cf6c4" filter="url(#signal)"/>
+</svg>
