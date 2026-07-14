@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.svg" alt="LIANG.0417 — AI independent builder" width="100%" />
+  <img src="./assets/banner.svg" alt="LIANGSHANBOBO — AI independent builder" width="100%" />
 </p>
 
 ### BUILD SMALL. THINK IN SYSTEMS. SHIP IN PUBLIC.
