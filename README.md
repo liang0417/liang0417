@@ -10,8 +10,8 @@ I build AI-native products and the systems that keep them useful after the demo.
 
 ### CURRENT SIGNAL
 
-- `OPEN SOURCE` [Personal AI Portfolio](https://github.com/liang0417/personal-ai-portfolio) — a React + Vite foundation for a personal site, writing and project showcase.
-- `BUILDING` a public trail of experiments, decisions and reusable tools.
+- `OPEN SOURCE` [Liangshanbobo](https://github.com/liang0417/liangshanbobo) — my React + Vite home for writing, projects and public experiments.
+- `BUILDING` [Shanbo Context](https://github.com/liang0417/shanbo-context) — a local-first knowledge workspace with verifiable retrieval.
 - `EXPLORING` agent workflows, product automation and the one-person company.
 
 ### BUILDER OS
