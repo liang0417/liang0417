@@ -6,7 +6,7 @@
 
 I build AI-native products and the systems that keep them useful after the demo.
 
-我把 AI 当作杠杆，把模糊的想法变成可以运行、验证和持续迭代的产品。正在探索：一个人借助 agents、automation 与 open source，究竟能走多远。
+把 AI 当作杠杆，把模糊的想法变成可以运行、验证和持续迭代的产品。正在探索：一个人借助 agents、automation 与 open source，究竟能走多远。
 
 ### CURRENT SIGNAL
 
