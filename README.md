@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="./assets/banner.svg" alt="LIANGSHANBOBO — AI independent builder" width="100%" />
-</p>
-
 ### BUILD SMALL. THINK IN SYSTEMS. SHIP IN PUBLIC.
 
 I build AI-native products and the systems that keep them useful after the demo.
