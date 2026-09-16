@@ -16,11 +16,11 @@ Building reliable AI systems for real-world workflows.
 
 #### 💼 Experience
 
-**AI Application Engineering** — `2024 to Now`<br>
-Enterprise Agents · RAG · System Integration
+**2024 to Now** — `Enterprise AI Engineering`<br>
+Agents · RAG · Systems Integration for Enterprise AI Transformation
 
-**Backend Engineering** — `2022 to 2024`<br>
-Workflow · OA · Business Systems
+**2022 to 2024** — `Java Engineering`<br>
+Enterprise Digital Transformation Systems
 
 </td>
 <td valign="top" width="50%">
@@ -29,9 +29,9 @@ Workflow · OA · Business Systems
 
 ❤️ I love open source.
 
-I enjoy contributing small, useful improvements to the tools I use.
-
-See pinned work below ↓
+- ✨ Contributor to [RAGFlow](https://github.com/infiniflow/ragflow)
+- ✨ Contributor to [crewAI](https://github.com/crewAIInc/crewAI)
+- ✨ Contributor to [ASu-skills](https://github.com/Hisn00w/ASu-skills)
 
 </td>
 </tr>
