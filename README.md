@@ -10,6 +10,15 @@ I build AI-native products and the systems that keep them useful after the demo.
 - `BUILDING` [Shanbo Context](https://github.com/liang0417/shanbo-context) — a local-first knowledge workspace with verifiable retrieval.
 - `EXPLORING` agent workflows, product automation and the one-person company.
 
+### OPEN SOURCE CONTRIBUTIONS
+
+I contribute small, tested improvements to projects I use and respect.
+
+- `MERGED` [CrewAI #7336](https://github.com/crewAIInc/crewAI/pull/7336) — regression coverage for native agent results.
+- `MERGED` [RAGFlow #19606](https://github.com/infiniflow/ragflow/pull/19606) — Python frontend proxy startup documentation fix.
+- `MERGED` [ASu-skills #133](https://github.com/Hisn00w/ASu-skills/pull/133) and [#140](https://github.com/Hisn00w/ASu-skills/pull/140) — reusable resume and job-search resources.
+- `IN REVIEW` [Langflow #15091](https://github.com/langflow-ai/langflow/pull/15091) and [Harness #3721](https://github.com/harness/harness/pull/3721).
+
 ### BUILDER OS
 
 ```text
