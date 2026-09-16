@@ -1,32 +1,24 @@
-### BUILD SMALL. THINK IN SYSTEMS. SHIP IN PUBLIC.
+# Liang Hongwei
 
-I build AI-native products and the systems that keep them useful after the demo.
+**AI Systems Builder** — building reliable Agents, RAG systems and developer tools beyond the demo.
 
-把 AI 当作杠杆，把模糊的想法变成可以运行、验证和持续迭代的产品。正在探索：一个人借助 agents、automation 与 open source，究竟能走多远。
+## Open Source Contributions
 
-### CURRENT SIGNAL
+**Merged upstream**
 
-- `OPEN SOURCE` [Liangshanbobo](https://github.com/liang0417/liangshanbobo) — my React + Vite home for writing, projects and public experiments.
-- `BUILDING` [Shanbo Context](https://github.com/liang0417/shanbo-context) — a local-first knowledge workspace with verifiable retrieval.
-- `EXPLORING` agent workflows, product automation and the one-person company.
+- [RAGFlow](https://github.com/infiniflow/ragflow) `90k+ ★` — [#19606](https://github.com/infiniflow/ragflow/pull/19606)
+- [crewAI](https://github.com/crewAIInc/crewAI) `58k+ ★` — [#7336](https://github.com/crewAIInc/crewAI/pull/7336)
+- [ASu-skills](https://github.com/Hisn00w/ASu-skills) `4.6k+ ★` — [#133](https://github.com/Hisn00w/ASu-skills/pull/133) · [#140](https://github.com/Hisn00w/ASu-skills/pull/140)
 
-### OPEN SOURCE CONTRIBUTIONS
+**In review**
 
-I contribute small, tested improvements to projects I use and respect.
+- [Langflow](https://github.com/langflow-ai/langflow) `154k+ ★` — [#15091](https://github.com/langflow-ai/langflow/pull/15091)
+- [Harness](https://github.com/harness/harness) `38k+ ★` — [#3721](https://github.com/harness/harness/pull/3721)
 
-- `MERGED` [CrewAI #7336](https://github.com/crewAIInc/crewAI/pull/7336) — regression coverage for native agent results.
-- `MERGED` [RAGFlow #19606](https://github.com/infiniflow/ragflow/pull/19606) — Python frontend proxy startup documentation fix.
-- `MERGED` [ASu-skills #133](https://github.com/Hisn00w/ASu-skills/pull/133) and [#140](https://github.com/Hisn00w/ASu-skills/pull/140) — reusable resume and job-search resources.
-- `IN REVIEW` [Langflow #15091](https://github.com/langflow-ai/langflow/pull/15091) and [Harness #3721](https://github.com/harness/harness/pull/3721).
+## Building
 
-### BUILDER OS
-
-```text
-OBSERVE → PROTOTYPE → SYSTEMIZE → SHIP → ITERATE
-```
-
-Useful over impressive. Systems over one-off demos. Evidence over slogans.
+[Liangshanbobo](https://github.com/liang0417/liangshanbobo) — writing, projects and public experiments · **Shanbo Context** — a local-first knowledge workspace with verifiable retrieval.
 
 ---
 
-<sub>`SYSTEM ONLINE · 2026`</sub>
+*Build small. Think in systems. Ship with evidence.*
