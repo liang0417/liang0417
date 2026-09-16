@@ -1,24 +1,43 @@
-# Liang Hongwei
+<div align="center">
 
-**AI Systems Builder** — building reliable Agents, RAG systems and developer tools beyond the demo.
+## Hi, I'm Liang Hongwei.
 
-## Open Source Contributions
+**AI Application Engineer · Agent & RAG**
 
-**Merged upstream**
+Building reliable AI systems for real-world workflows.
 
-- [RAGFlow](https://github.com/infiniflow/ragflow) `90k+ ★` — [#19606](https://github.com/infiniflow/ragflow/pull/19606)
-- [crewAI](https://github.com/crewAIInc/crewAI) `58k+ ★` — [#7336](https://github.com/crewAIInc/crewAI/pull/7336)
-- [ASu-skills](https://github.com/Hisn00w/ASu-skills) `4.6k+ ★` — [#133](https://github.com/Hisn00w/ASu-skills/pull/133) · [#140](https://github.com/Hisn00w/ASu-skills/pull/140)
+<code>🧩 Enterprise AI</code> <code>🔭 Agents · RAG · Automation</code>
 
-**In review**
+</div>
 
-- [Langflow](https://github.com/langflow-ai/langflow) `154k+ ★` — [#15091](https://github.com/langflow-ai/langflow/pull/15091)
-- [Harness](https://github.com/harness/harness) `38k+ ★` — [#3721](https://github.com/harness/harness/pull/3721)
+<table>
+<tr>
+<td valign="top" width="50%">
 
-## Building
+#### 💼 Experience
 
-[Liangshanbobo](https://github.com/liang0417/liangshanbobo) — writing, projects and public experiments · **Shanbo Context** — a local-first knowledge workspace with verifiable retrieval.
+**AI Application Engineering** — `2024 to Now`<br>
+Enterprise Agents · RAG · System Integration
 
----
+**Backend Engineering** — `2022 to 2024`<br>
+Workflow · OA · Business Systems
 
-*Build small. Think in systems. Ship with evidence.*
+</td>
+<td valign="top" width="50%">
+
+#### 💻 Open Source
+
+❤️ I love open source.
+
+I enjoy contributing small, useful improvements to the tools I use.
+
+See pinned work below ↓
+
+</td>
+</tr>
+</table>
+
+### 🌱 Currently Building
+
+- [Liangshanbobo](https://github.com/liang0417/liangshanbobo) — writing, projects and public experiments.
+- **Shanbo Context** — a local-first knowledge workspace with verifiable retrieval.
