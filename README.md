@@ -29,9 +29,9 @@ Enterprise Digital Transformation Systems
 
 ❤️ I love open source.
 
-- ✨ Contributor to [RAGFlow](https://github.com/infiniflow/ragflow)
-- ✨ Contributor to [crewAI](https://github.com/crewAIInc/crewAI)
-- ✨ Contributor to [ASu-skills](https://github.com/Hisn00w/ASu-skills)
+- ✨ **Open Source Contributor** — [RAGFlow](https://github.com/infiniflow/ragflow) · RAG infrastructure
+- ✨ **Open Source Contributor** — [crewAI](https://github.com/crewAIInc/crewAI) · multi-agent systems
+- ✨ **Open Source Contributor** — [ASu-skills](https://github.com/Hisn00w/ASu-skills) · AI skills and developer workflows
 
 </td>
 </tr>
