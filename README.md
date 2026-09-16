@@ -10,7 +10,7 @@ Building reliable AI systems for real-world workflows.
 
 </div>
 
-<table>
+<table width="100%">
 <tr>
 <td valign="top" width="50%">
 
